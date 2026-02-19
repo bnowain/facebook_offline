@@ -1,0 +1,8 @@
+# Raw Facebook data export ZIPs
+Raw Data/
+
+# Extracted data containing PII (messages, profile info, locations, etc.)
+DataArchives/
+
+# File index contains PII in paths and metadata
+facebook_structure.csv
